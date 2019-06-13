@@ -18,7 +18,7 @@ Methods Mentioned:
 
 ## Stage 3: Strategy
 
-* [ ] RL 的financial strategies, 貌似可以不做了，不过@ghy 都有所了解了，能说点做点什么总归有用。
+* [ ] RL 的financial strategies, 貌似可以不做了，不过[@ghy](https://github.com/gohsyi) 都有所了解了，能说点做点什么总归有用。
 * [ ] 貌似有个必须完成的任务：the number of buying and spelling on testing set, the average price to buy and the average price to sell. Besides, attach action selection for each tick on testing set for submission.
 
 ## Stage 4: Others
