@@ -2,6 +2,8 @@
 
 This repo contain codes to predict future stock price by machine learning algorithms.
 
+## Models
+
 A series of ML models are implemented.
 
 * Random Forest
@@ -51,4 +53,4 @@ Raw data is first processed via [Data_Preprocess.ipynb](Data_Preprocess.ipynb), 
 
 ## Trading Strategies:
 
-Codes are one of my partners' [repo](<https://github.com/gohsyi/trading_strategy>)
+Codes are in one of my partners' [repo](<https://github.com/gohsyi/trading_strategy>)
