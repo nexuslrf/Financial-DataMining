@@ -41,7 +41,7 @@ Raw data is first processed via [Data_Preprocess.ipynb](Data_Preprocess.ipynb), 
   python Training.py --batch_size 1024 --prev_step 30  --suffix pre30_class_raw --num_classes 1 --epochs 30 --feature_size 256 --normalize --layers 1  --model Transformer
   ```
 
-## Results to show
+## Results to show (MSE metric)
 
 | Model             | Random Forest | AdaBoost | XGBoost | CNN   | DNN   | GRU   | LSTM  | Transformer |
 | ----------------- | ------------- | -------- | ------- | ----- | ----- | ----- | ----- | ----------- |
